@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\Final Projects\StudentsManageApp\StudentsManageApp\bin\Debug\net8.0\StudentsManageApp.exe
+C:\Users\Lenovo\Desktop\Final Projects\StudentsManageApp\StudentsManageApp\bin\Debug\net8.0\StudentsManageApp.deps.json
+C:\Users\Lenovo\Desktop\Final Projects\StudentsManageApp\StudentsManageApp\bin\Debug\net8.0\StudentsManageApp.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Final Projects\StudentsManageApp\StudentsManageApp\bin\Debug\net8.0\StudentsManageApp.dll
+C:\Users\Lenovo\Desktop\Final Projects\StudentsManageApp\StudentsManageApp\bin\Debug\net8.0\StudentsManageApp.pdb
+C:\Users\Lenovo\Desktop\Final Projects\StudentsManageApp\StudentsManageApp\obj\Debug\net8.0\StudentsManageApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Final Projects\StudentsManageApp\StudentsManageApp\obj\Debug\net8.0\StudentsManageApp.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Final Projects\StudentsManageApp\StudentsManageApp\obj\Debug\net8.0\StudentsManageApp.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Final Projects\StudentsManageApp\StudentsManageApp\obj\Debug\net8.0\StudentsManageApp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Final Projects\StudentsManageApp\StudentsManageApp\obj\Debug\net8.0\StudentsManageApp.dll
+C:\Users\Lenovo\Desktop\Final Projects\StudentsManageApp\StudentsManageApp\obj\Debug\net8.0\refint\StudentsManageApp.dll
+C:\Users\Lenovo\Desktop\Final Projects\StudentsManageApp\StudentsManageApp\obj\Debug\net8.0\StudentsManageApp.pdb
+C:\Users\Lenovo\Desktop\Final Projects\StudentsManageApp\StudentsManageApp\obj\Debug\net8.0\StudentsManageApp.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Final Projects\StudentsManageApp\StudentsManageApp\obj\Debug\net8.0\ref\StudentsManageApp.dll
